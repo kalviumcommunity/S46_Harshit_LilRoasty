@@ -197,4 +197,4 @@ MIT License — fork, remix, and roast responsibly.
 
 ---
 
-## 👨‍💻 Made with humor and Python by \[Your Name]
+## 👨‍💻 Made with humor by Harshit
